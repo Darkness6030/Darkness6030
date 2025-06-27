@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darkdustry 👋</h1>
+<h1 align="center">Hi, I'm Konstantin 👋</h1>
 <p align="center">
   🧑‍💻 Middle Full-Stack Developer based in Moscow  
 </p>
