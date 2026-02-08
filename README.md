@@ -55,10 +55,10 @@
 
 ---
 
-## 🧩 Fun Facts
+## 🧩 Some Facts
 
 - 🧠 Been coding for 4+ years professionally  
-- 🌍 I like building tools that actually help people  
+- 🌍 I like building something really unique & innovative  
 - 🧪 Not afraid to dig inside libraries and frameworks
 
 ---
